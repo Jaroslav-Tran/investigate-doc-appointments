@@ -42,4 +42,4 @@ I was following a standard data analytics process:
   <li> -Limitations </li>
  </ol>
 
-You can access the interactive version on my binder here: https://mybinder.org/v2/gh/Jaroslav-Tran/investigate-doc-appointments/master
+You can access the interactive version on my binder <a href ="https://mybinder.org/v2/gh/Jaroslav-Tran/investigate-doc-appointments/master"> here.</a>
