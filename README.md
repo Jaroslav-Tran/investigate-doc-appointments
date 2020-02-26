@@ -24,11 +24,13 @@ This dataset collects information from over 100k medical appointments in Brazil 
 
 ## QUESTIONS INVESTIGATED:
 I used data analysis proccess to explore a data set answer questions we were interested on:
-Q1: What neighborhoods have the most absences?
-Q2: What days were the most appointments missed?
-Q3: Which age groups (Young, Adults, etc.) have the most absences?
-Q4: Are people who receive SMS are more or less absent than the ones who do not?
-Q5: Which characteristics affect the likelihood of absence the most? By how much?
+<ul>
+<li> Q1: What neighborhoods have the most absences? </li>
+<li> Q2: What days were the most appointments missed? </li>
+<li> Q3: Which age groups (Young, Adults, etc.) have the most absences? </li>
+<li> Q4: Are people who receive SMS are more or less absent than the ones who do not? </li>
+<li> Q5: Which characteristics affect the likelihood of absence the most? By how much? </li>
+  </ul>
 
 ## PROCESS OUTLINE:
 I was following a standard data analytics process:
@@ -38,3 +40,6 @@ I was following a standard data analytics process:
 4-Conclusion 
 5-Limitations
 
+Fill in the fields to see the markdown badge snippet.
+Fill in the fields to see the rST badge snippet.
+You can access the interactive version on my binder here: https://mybinder.org/v2/gh/Jaroslav-Tran/investigate-doc-appointments/master
