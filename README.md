@@ -34,12 +34,12 @@ I used data analysis proccess to explore a data set answer questions we were int
 
 ## PROCESS OUTLINE:
 I was following a standard data analytics process:
-1-Clean data
-2-Explore data
-3-Answer questions and visualise data
-4-Conclusion 
-5-Limitations
+<ol>
+  <li> -Clean data </li>
+  <li> -Explore data </li>
+  <li> -Answer questions and visualise data </li>
+  <li> -Conclusion </li>
+  <li> -Limitations </li>
+ </ol>
 
-Fill in the fields to see the markdown badge snippet.
-Fill in the fields to see the rST badge snippet.
 You can access the interactive version on my binder here: https://mybinder.org/v2/gh/Jaroslav-Tran/investigate-doc-appointments/master
