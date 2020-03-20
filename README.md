@@ -1,3 +1,4 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Jaroslav-Tran/investigate-doc-appointments/master)
 # Investigate doctor appointments in Brasil
 Udacity Data Analyst Nanodegree Project-Analyzing Doc Appointments in Brasil
 
